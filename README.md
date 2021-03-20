@@ -24,7 +24,7 @@ of reading all articles, except you cannot make any changes to them. To write an
 
 4. Once you are in, now you can create your articles and edit or delete them.
 
-Since this is a basic idea, we prioritized on implemnting a fully functional websites and did not focus much on bells and
+Since this is a basic idea, we prioritized on implemnting a fully functional website and did not focus much on bells and
 whistles, hence you won't see any cool animations in the UI or a text editor. 
 
 Contributors for this Project: Sreekesh Iyer, Jisha Philip, Vaibhavi Jadhav, Sakshi Kharche
