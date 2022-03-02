@@ -9,7 +9,7 @@ Frontend - Java (AWT and Swing packages)
 
 Backend - MySQL
 
-Requirements : Java JDK, IDE (any IDE for Java, we used Eclipse), XAMPP (or anything which can host a local SQL server for you), Java ODBC libraries for database connection
+Requirements : Java JDK, IDE (any IDE for Java, we used Eclipse), XAMPP (or anything which can host a local SQL server for you), Java ODBC libraries for database connection.
 
 Working:
 
